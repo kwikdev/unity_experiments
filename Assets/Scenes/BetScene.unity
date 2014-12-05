@@ -818,7 +818,7 @@ Transform:
   m_PrefabInternal: {fileID: 1666254916}
   m_GameObject: {fileID: 1307891687}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.66601181, y: -2.4214642, z: -1}
+  m_LocalPosition: {x: 1.62, y: -2.42000008, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1157601210}
@@ -949,7 +949,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1539047094}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.76107407, y: -.861039698, z: -1}
+  m_LocalPosition: {x: 1.65999997, y: -.860000014, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 277089599}
@@ -989,11 +989,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400002, guid: 97371ebbe5cfd184a82e9b312265c4ed, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 2.66601181
+      value: 1.62
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 97371ebbe5cfd184a82e9b312265c4ed, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.4214642
+      value: -2.42000008
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 97371ebbe5cfd184a82e9b312265c4ed, type: 2}
       propertyPath: m_LocalPosition.z
