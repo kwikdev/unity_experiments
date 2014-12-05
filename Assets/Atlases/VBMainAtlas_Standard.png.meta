@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: dcd07015ab5bd39498f55d778a61c251
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VBMainAtlas_Standard_0
+    21300002: VBMainAtlas_Standard_1
+    21300004: VBMainAtlas_Standard_2
+    21300006: VBMainAtlas_Standard_3
+    21300008: VBMainAtlas_Standard_4
+    21300010: Daub2
+    21300012: VBMainAtlas_Standard_6
+    21300014: VBMainAtlas_Standard_7
+    21300016: VBMainAtlas_Standard_8
+    21300018: VBMainAtlas_Standard_9
+    21300020: MinusButton
+    21300022: Daub
+    21300024: Ball_Purple
+    21300026: VBMainAtlas_Standard_13
+    21300028: VBMainAtlas_Standard_14
+    21300030: VBMainAtlas_Standard_15
+    21300032: BluePanel
+    21300034: VBMainAtlas_Standard_17
+    21300036: PlusButton
+    21300038: VBMainAtlas_Standard_19
+    21300040: VBMainAtlas_Standard_20
+    21300042: VBMainAtlas_Standard_21
+    21300044: VBMainAtlas_Standard_22
+    21300046: BingoLine
+    21300048: VBMainAtlas_Standard_24
+    21300050: VBMainAtlas_Standard_25
+    21300052: Card
+    21300054: VBMainAtlas_Standard_27
+    21300056: Ball_Orange
+    21300058: Ball_Red
+    21300060: Ball_Blue
+    21300062: Ball_Green
+    21300064: BonusBall
+    21300066: BigButton
+    21300068: BetPanel
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: VBMainAtlas_Standard_0
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 769
+        width: 220
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 625
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 710
+        width: 152
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 624
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 688
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Daub2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 680
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_6
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 625
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 657
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 623
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 955
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MinusButton
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 556
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Daub
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 556
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ball_Purple
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 473
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_13
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 603
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_14
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 597
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 556
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BluePanel
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 473
+        width: 266
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 473
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlusButton
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 425
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 231
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 264
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_21
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 165
+        width: 105
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_22
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 199
+        width: 52
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BingoLine
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 199
+        width: 44
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 140
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_25
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Card
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 706
+        width: 277
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBMainAtlas_Standard_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 473
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ball_Orange
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 485
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ball_Red
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 479
+        width: 135
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ball_Blue
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 696
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ball_Green
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 839
+        width: 147
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BonusBall
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 841
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BigButton
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 407
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+    - name: BetPanel
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 304
+        width: 361
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: main
+  userData: 

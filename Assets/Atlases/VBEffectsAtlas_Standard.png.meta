@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 9454858b516288f46950ae06c155b101
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VBEffectsAtlas_Standard_0
+    21300002: Star
+    21300004: VBEffectsAtlas_Standard_2
+    21300006: VBEffectsAtlas_Standard_3
+    21300008: VBEffectsAtlas_Standard_6
+    21300010: VBEffectsAtlas_Standard_7
+    21300012: VBEffectsAtlas_Standard_8
+    21300014: VBEffectsAtlas_Standard_9
+    21300016: VBEffectsAtlas_Standard_10
+    21300018: VBEffectsAtlas_Standard_11
+    21300020: VBEffectsAtlas_Standard_12
+    21300022: VBEffectsAtlas_Standard_13
+    21300024: VBEffectsAtlas_Standard_14
+    21300026: Bingo
+    21300028: VBEffectsAtlas_Standard_18
+    21300030: VBEffectsAtlas_Standard_19
+    21300032: VBEffectsAtlas_Standard_20
+    21300034: VBEffectsAtlas_Standard_21
+    21300036: VBEffectsAtlas_Standard_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: VBEffectsAtlas_Standard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 256
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Star
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 340
+        width: 85
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 347
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 265
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 215
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 238
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_9
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 195
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_10
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 92
+        width: 240
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 134
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 146
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 135
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bingo
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 252
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3
+        width: 181
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 6
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VBEffectsAtlas_Standard_22
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 10
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: test
+  userData: 
